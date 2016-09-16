@@ -1,0 +1,2 @@
+new Firebase()
+Constructs a new FireBase reference from a full Firebase URL
